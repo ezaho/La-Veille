@@ -37,6 +37,7 @@ description + lien vers contenu github hébergé chez l'apprenant
 ### Phaser
 **Présenté par Gary, le jeudi 18 mai 2017**
 
+
 [Lien](https://github.com/GaryLuypaert/Veilles-Technologiques)
 
 
@@ -81,3 +82,8 @@ description + lien vers contenu github hébergé chez l'apprenant
 **présenté par Gilles, vendredi 2 juin 2017**  
 
 description + lien vers contenu github hébergé chez l'apprenant
+
+### Deep learning
+** présenté par Claudy,jeudi 8 juin 2017**
+description + lien vers contenu github hébergé chez l'apprenant 
+
